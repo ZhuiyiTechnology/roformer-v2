@@ -4,7 +4,7 @@ RoFormer升级版，主要通过结构的简化来提升速度，并通过无监
 
 ## 介绍
 
-- 博客：kexue.fm/archives/8998
+- 博客：https://kexue.fm/archives/8998
 
 ## 环境
 
