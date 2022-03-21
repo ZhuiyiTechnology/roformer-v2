@@ -14,9 +14,9 @@ bert4keras >= 0.11.0
 
 ## 下载
 
-- **Small版**：[chinese_roformer-v2-char_L-6_H-384_A-6.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-6_H-384_A-6.zip)
-- **Base版**：[chinese_roformer-v2-char_L-12_H-768_A-12.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-12_H-768_A-12.zip)
-- **Large版**：[chinese_roformer-v2-char_L-24_H-1024_A-16.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-24_H-1024_A-16.zip)
+- **Small版**：[chinese_roformer-v2-char_L-6_H-384_A-6.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-6_H-384_A-6.zip)、[百度云](https://pan.baidu.com/s/1huUrC9P60Afggo8AfiUcmA)(提取码：ttn4)
+- **Base版**：[chinese_roformer-v2-char_L-12_H-768_A-12.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-12_H-768_A-12.zip)、[百度云](https://pan.baidu.com/s/1qcnN4LVKVe0-mnHlkN3-6Q)(提取码：pfoh)
+- **Large版**：[chinese_roformer-v2-char_L-24_H-1024_A-16.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-24_H-1024_A-16.zip)、[百度云](https://pan.baidu.com/s/1QiJWSZrGxn8vek-8myvL6w)(提取码：npfv)
 
 ## 其他
 
