@@ -2,6 +2,8 @@
 
 RoFormer升级版，主要通过结构的简化来提升速度，并通过无监督预训练和有监督预训练的结合来提升效果，从而达到了速度与效果的“双赢”。
 
+<img src="https://kexue.fm/usr/uploads/2022/03/1268810640.png" width=600>
+
 ## 介绍
 
 - 博客：https://kexue.fm/archives/8998
