@@ -16,6 +16,10 @@ bert4keras >= 0.11.0
 - **Base版**：[chinese_roformer-v2-char_L-12_H-768_A-12.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-12_H-768_A-12.zip)
 - **Large版**：[chinese_roformer-v2-char_L-24_H-1024_A-16.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-24_H-1024_A-16.zip)
 
+## 其他
+
+训练代码需要进一步整理封装后才能发布，敬请期待
+
 ## 引用
 
 Bibtex：
