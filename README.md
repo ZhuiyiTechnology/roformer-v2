@@ -18,9 +18,17 @@ bert4keras >= 0.11.0
 - **Base版**：[chinese_roformer-v2-char_L-12_H-768_A-12.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-12_H-768_A-12.zip)、[百度云](https://pan.baidu.com/s/1qcnN4LVKVe0-mnHlkN3-6Q)(提取码：pfoh)
 - **Large版**：[chinese_roformer-v2-char_L-24_H-1024_A-16.zip](https://open.zhuiyi.ai/releases/nlp/models/zhuiyi/chinese_roformer-v2-char_L-24_H-1024_A-16.zip)、[百度云](https://pan.baidu.com/s/1QiJWSZrGxn8vek-8myvL6w)(提取码：npfv)
 
-## 其他
+## 训练
 
-训练代码需要进一步整理封装后才能发布，敬请期待
+训练代码需要进一步整理封装后才能发布，敬请期待。
+
+## 配置
+
+- **Small版**：两张3090（24G），先用无监督MLM训练了100万步，然后有监督多任务训练了75万步，batch_size为512，优化器为LAMB；
+
+- **Base版**：四张3090（24G），先用无监督MLM训练了100万步，然后有监督多任务训练了75万步，batch_size为512，优化器为LAMB；
+
+- **Large版**：两张A100（80G），先用无监督MLM训练了100万步，然后有监督多任务训练了50万步，batch_size为512，优化器为LAMB。
 
 ## 引用
 
