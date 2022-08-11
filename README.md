@@ -20,7 +20,7 @@ bert4keras >= 0.11.0
 
 ## 训练
 
-多任务训练代码需要进一步整理封装后才能发布，敬请期待。
+多任务训练代码参考 https://github.com/ZhuiyiTechnology/roformer-v2/tree/main/multi-task
 
 ## 配置
 
