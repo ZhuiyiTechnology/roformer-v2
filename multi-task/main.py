@@ -24,6 +24,7 @@ tasks = [
     (t0101_mlm, 60),
     (t0201_iflytek, 2),
     (t0202_tnews, 5),
+    (t0203_thucnews, 4),
     # (xxxx, xx),
     (t0203_thucnews, 4),
     # (yyyy, yy),
